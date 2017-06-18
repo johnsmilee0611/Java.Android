@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="GitFeatures2.cs" />
     <Compile Include="NewFeature1.cs" />
+    <Compile Include="NewFeatureMaster1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
