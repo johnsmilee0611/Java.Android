@@ -11,6 +11,7 @@ namespace MyFirstApp
         static void Main(string[] args)
         {
             Console.WriteLine("Feature Master");
+            Console.WriteLine("Feature Master2");
         }
     }
 }
