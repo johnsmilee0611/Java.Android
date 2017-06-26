@@ -12,6 +12,7 @@ namespace MyFirstApp
         {
             Console.WriteLine("Feature Master");
             Console.WriteLine("Feature Master2");
+            Console.WriteLine("Feature Master3");
         }
     }
 }
